@@ -1,0 +1,14 @@
+# Security
+.env
+
+# Virtual Environments
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+core/__pycache__/
+*.pyc
+
+# Local Database files (Optional: add this if you don't want to upload user data)
+*.db
