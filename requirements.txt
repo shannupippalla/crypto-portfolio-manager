@@ -1,12 +1,9 @@
 ***
 
-### 💡 Final Step!
-Make sure to change `https://github.com/your-username/crypto-portfolio-manager.git` in the setup instructions to your actual GitHub link once you create the repo!
-
-streamlit>=1.32.0
-pandas>=1.5.0
-numpy>=1.24.0,<2.0.0
-scikit-learn>=1.3.0
-plotly>=5.18.0
-reportlab>=4.0.0
-requests>=2.31.0
+streamlit
+pandas
+plotly
+scikit-learn
+python-dotenv
+requests
+reportlab
